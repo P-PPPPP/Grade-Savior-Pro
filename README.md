@@ -7,3 +7,6 @@
 2. 点击“加载Excel”文件，导入你的成绩单；
 3. 拖动参数，**拯救班级的及格率**！
 4. 点击“导出修改后成绩”，保存最终的结果吧！
+
+# 版本发布
+.[https://github.com/P-PPPPP/Grade-Savior-Pro/releases/tag/first_release](https://github.com/P-PPPPP/Grade-Savior-Pro/releases/tag/first_release)
