@@ -14,6 +14,7 @@
 4. 点击“导出修改后成绩”，保存最终的结果吧！
 
 # 版本发布
+!!!!! 点击以下链接下载程序
 [https://github.com/P-PPPPP/Grade-Savior-Pro/releases/tag/first_release](https://github.com/P-PPPPP/Grade-Savior-Pro/releases/tag/first_release)
 
 # 程序打包
